@@ -44,8 +44,8 @@ Proje eğitim amaçlı geliştirilmiştir.
 
 ## 💻 Kurulum
 
-Proje linki: https://ecommerce-crud.netlify.app/
-Projeyi lokal ortamda çalıştırmak için:
+-Proje linki: https://ecommerce-crud.netlify.app/
+-Projeyi lokal ortamda çalıştırmak için:
 
 ```bash
 npm install
