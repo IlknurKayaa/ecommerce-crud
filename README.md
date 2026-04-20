@@ -28,14 +28,13 @@ Kullanıcılar ürün ekleyebilir, listeleyebilir, güncelleyebilir ve silebilir
 ---
 
 ## 🗂️ Proje Yapısı
-src/
-│
-├── components/ # Navbar, Footer, ProductCard, Modal vb.
-├── pages/ # Home, AddProduct, EditProduct
-├── interfaces/ # Veri model mantığı
-├── layout/ # Layout yapısı
-├── assets/ # Icon ve görseller
-├── utils/ # LocalStorage işlemleri
+src
+├── components
+├── pages
+├── interfaces
+├── layout
+├── assets
+└── utils
 
 Veriler LocalStorage’da saklanmaktadır.
 Backend kullanılmamıştır.
