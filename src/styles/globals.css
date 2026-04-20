@@ -1,0 +1,39 @@
+.container-custom {
+  @apply w-full px-4 sm:px-6 lg:px-8 md:max-w-full lg:max-w-5xl xl:max-w-6xl mx-auto;
+}
+
+/* arkaplan */
+.page-bg {
+  @apply bg-gray-100 min-h-screen;
+}
+
+/* navbar */
+.navbar-box {
+  @apply bg-white border border-gray-200;
+}
+
+.card {
+  @apply bg-white rounded-2xl border border-gray-200 p-4 hover:shadow-md transition;
+}
+
+.btn {
+   @apply px-4 py-4 rounded-lg text-sm font-medium transition;
+}
+
+.btn-nav {
+  @apply text-base px-5 py-4;
+}
+
+.btn-primary {
+  @apply bg-blue-500 text-white hover:bg-blue-600;
+}
+
+
+.btn-danger {
+  @apply bg-red-500 text-white hover:bg-red-600;
+}
+
+
+.btn-add {
+  @apply bg-blue-50 text-blue-600 hover:bg-blue-100;
+}
